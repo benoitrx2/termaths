@@ -11,9 +11,9 @@ setuptools.setup(
     description="Un module de maths pour des élèves de terminales en spécialité maths ou en maths expertes.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/benoitrx2/termaths",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/benoitrx2/termaths/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
