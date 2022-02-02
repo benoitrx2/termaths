@@ -1,6 +1,6 @@
 # Termaths
 
-Termaths est un module qui est précu pour les élèves de terminale en spécialité maths ou en maths experts.
+Termaths est un module qui est prévu pour les élèves de terminale en spécialité maths ou en maths experts.
 
 ## Installation
 

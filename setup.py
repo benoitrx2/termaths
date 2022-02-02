@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="termaths-ROUX-BENOIT",
-    version="0.0.1",
+    name="termaths",
+    version="0.0.3",
     author="Benoit",
     author_email="b.roux3850@gmail.com",
     description="Un module de maths pour des élèves de terminales en spécialité maths ou en maths expertes.",

@@ -8,7 +8,7 @@ class Matrice:
 		self.carre = n == m
 		self.n = n
 		self.m = m
-		self.value = [[0 for _ in range(n)] for _ in range(m)]
+		self.value = [[d.Decimal(0) for _ in range(n)] for _ in range(m)]
 
 	def __str__(self):
 		res = ""

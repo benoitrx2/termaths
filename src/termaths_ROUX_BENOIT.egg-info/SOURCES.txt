@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/termaths_ROUX_BENOIT.egg-info/PKG-INFO
+src/termaths_ROUX_BENOIT.egg-info/SOURCES.txt
+src/termaths_ROUX_BENOIT.egg-info/dependency_links.txt
+src/termaths_ROUX_BENOIT.egg-info/top_level.txt
