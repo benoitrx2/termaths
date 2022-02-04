@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="termaths",
-    version="0.0.3",
-    author="Benoit",
+    version="0.0.4",
+    author="Benoit Roux",
     author_email="b.roux3850@gmail.com",
     description="Un module de maths pour des élèves de terminales en spécialité maths ou en maths expertes.",
     long_description=long_description,
